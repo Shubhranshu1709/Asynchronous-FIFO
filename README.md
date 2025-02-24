@@ -16,4 +16,4 @@ Useful in Clock Domain Crossing (CDC): Allows safe data transfer between differe
 
 Applications of Asynchronous FIFO:
 Data transfer between different clock domains in FPGA/ASIC designs.
-Communication interfaces like UART, SPI, and USB.
+Communication interfaces like UART.
